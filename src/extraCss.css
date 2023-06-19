@@ -1,0 +1,118 @@
+/* ************************************************** */
+/* Extra Material Design CSS */
+/* ************************************************** */
+
+.ce-chat-list div,
+.ce-chat-feed div,
+.ce-my-message-timestamp,
+.ce-their-message-timestamp,
+.ce-custom-message-input::placeholder {
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.ce-active-chat-card {
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15) !important;
+}
+
+.ce-custom-header-subtitle {
+    margin-top: 0.5vh !important;
+}
+
+.ce-chat-card-subtitle-html {
+    font-size: 12px !important;
+    margin-top: 0.25vh !important;
+}
+
+.ce-my-reads-row,
+.ce-their-reads-row {
+    width: auto !important;
+    margin: 0.75vh 0.75vw !important;
+}
+
+.ce-their-message-attachments,
+.ce-my-message-attachments {
+    width: auto !important;
+    margin-left: 0 !important;
+    padding-left: 0.25vw !important;
+    padding-right: 0.25vw !important;
+}
+
+.ce-their-message-body,
+.ce-my-message-body {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) !important;
+}
+
+.ce-their-message-body {
+    margin-left: 54px !important;
+}
+
+.ce-message-image {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08) !important;
+}
+
+.ce-avatar-dot,
+.ce-chat-card-unread {
+    max-width: 8px !important;
+    max-height: 8px !important;
+}
+
+.ce-their-message-sender-username {
+    padding-left: 0.25vw !important;
+}
+
+.ce-message-date-text,
+.ce-my-message-timestamp,
+.ce-their-message-timestamp {
+    font-weight: 400 !important;
+}
+
+.ce-avatar {
+    font-weight: 500 !important;
+    border: none !important;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 
+        0 2px 10px 0 rgba(0, 0, 0, 0.12) !important;
+}
+
+.css-1s2s82g-control,
+.css-14ft38c-control,
+.ce-custom-message-input {
+    margin-top: 0 !important;
+    padding: 5px 15px !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08) !important;
+    border: 1px solid rgba(0, 0, 0, 0.12) !important;
+}
+
+.ce-custom-message-form {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.ce-custom-message-input {
+    margin-left: 0vw !important;
+    max-width: 80% !important;
+}
+
+.ce-message-list {
+    margin-top: 0 !important;
+    padding: 0vh 3vw 2vh 3vw !important;
+    max-height: calc(100vh - 90px - 72px - 24px - 12px) !important;
+}
+
+.ce-create-chat-button,
+.ce-custom-send-button {
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15) !important;
+}
+
+.ce-create-chat-button {
+    top: 32px !important;
+}
+
+.css-1p3m7a8-multiValue {
+    background-color: #666666 !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2) !important;
+}
+
+.css-1y7rh0y-MultiValueGeneric2 {
+    color: #ffffff !important;
+}
